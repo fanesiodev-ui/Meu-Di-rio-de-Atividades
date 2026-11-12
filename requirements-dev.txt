@@ -1,0 +1,5 @@
+# Ferramentas de desenvolvimento: testes, empacotamento e geração do ícone
+-r requirements.txt
+pytest>=8.0
+pyinstaller>=6.10
+pillow>=10.0

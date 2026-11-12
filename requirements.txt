@@ -1,0 +1,5 @@
+# Dependências do aplicativo (necessárias para executar)
+customtkinter==5.2.2
+reportlab>=4.2
+openpyxl>=3.1
+pillow>=10.0          # logomarca e ícones da interface
